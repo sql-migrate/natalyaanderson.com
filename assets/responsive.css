@@ -82,7 +82,7 @@
 @media only screen and (max-width: 767px) {
 	
 	.container { width:300px; }
-	#content { margin-bottom:80px; }
+	#content { margin-bottom:20px; }
 	#main { width:100%; }
 	#sidebar {
 		width:100%;
